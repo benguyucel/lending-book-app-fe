@@ -1,0 +1,5 @@
+.card-list-footer{
+    display:flex;
+    
+    justify-content:space-between;
+}
